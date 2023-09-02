@@ -1,0 +1,11 @@
+{
+   "AWSEBDockerrunVersion": "1",
+   "Image": {
+      "Name": "854645275226.dkr.ecr.us-east-2.amazonaws.com/cursonodesaturday:latest"
+   },
+   "Ports": [
+      {
+         "ContainerPort": 80
+      }
+   ]
+}
