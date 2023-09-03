@@ -3,4 +3,3 @@ build
 yarn.lock
 cache
 dist
-.env
