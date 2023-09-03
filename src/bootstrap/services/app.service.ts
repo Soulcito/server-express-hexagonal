@@ -2,7 +2,7 @@
 import { UserEntity } from '../../modules/user/infrastructure/user.entity';
 import yenv from 'yenv';
 
-const env = yenv('.env');
+const env = yenv('.env', { env: 'production' })
 
 export class AppService {
 
